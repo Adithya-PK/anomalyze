@@ -1,0 +1,2 @@
+amount,time,transaction_count_24h,avg_amount_24h,merchant_type,transaction_type,device_type,location_type,is_international
+2450.00,14.50,3,1800.00,grocery,POS,mobile,same_city,0

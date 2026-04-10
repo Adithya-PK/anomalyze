@@ -1,4 +1,4 @@
-# Anomalyze - Credit Card Fraud Detection Dashboard
+# Anomalyze - Credit Card Fraud Detection using Anomaly Detection ML 
 
 Anomalyze is an academic fraud detection project built with Machine Learning and Streamlit. It detects suspicious credit card transactions using a hybrid decision system:
 
